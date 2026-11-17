@@ -4,6 +4,10 @@ Search clinical trial records using natural language and compare the most releva
 
 The repository includes a CSV containing **837 study records**, a **Streamlit web app**, and a **Jupyter notebook with a Gradio interface**. Both interfaces return **one best-matching study per model**, with an optional filter for the trial's start year.
 
+## Streamlit app
+
+https://semaglutide-search-query.streamlit.app/
+
 ## Features
 
 - Search trial descriptions by meaning using pretrained sentence embeddings.
