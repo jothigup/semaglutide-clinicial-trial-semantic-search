@@ -1,0 +1,1 @@
+# semaglutide-clinicial-trial-semantic-similarity
